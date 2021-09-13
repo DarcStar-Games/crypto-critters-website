@@ -1,7 +1,7 @@
 name: Dependency Vulnerability Scan
 on:
   push:
-    branches: [ develop, issue-* ]
+    branches: [ issue-* ]
     tags: [ v* ]
   pull_request:
     branches: [ main ]
