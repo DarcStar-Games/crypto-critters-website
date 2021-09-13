@@ -37,7 +37,7 @@ const Home: NextPage = () => {
               className={styles.card}
           >
             <h2>Roadmap &rarr;</h2>
-            <p>Discover what's next for Crypto Critters.</p>
+            <p>Discover the Future of Crypto Critters.</p>
           </a>
 
           <a
